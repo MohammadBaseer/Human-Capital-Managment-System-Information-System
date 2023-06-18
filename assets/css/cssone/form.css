@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+
+.clear{clear:both;}
+
+
+.boxwraper{border:1px solid #cdcdcd; background:#fff; margin-bottom:20px;}
+
+.boxwraper .titlebar{font-size:18px; font-family: 'Open Sans', 'sans-serif'; border-bottom:1px solid #cdcdcd; padding: 10px 15px; font-weight:bold; color:#444;
+background:#f9f9f9;}
+.boxwraper .titlebar strong{font-size:13px; font-weight:bold; color:#969696; padding-right:10px;}
+.boxwraper .titlebar a{font-size:13px; color:#91bf00; padding-left:10px; font-weight:bold;}
+.boxwraper .titlebar .text-right{font-size:12px; color:#777;}
+.titlebar{text-align:center; margin-bottom:30px;}
+.titlebar h2{font-size:40px; font-weight:600; margin:0 0 10px 0}
+.actionBox{margin-top:20px; margin-bottom:20px; text-align:center;}
+.actionBox h4{font-size:18px; font-weight:bold; color:#444; text-shadow:1px 1px #fff; margin:0;}
+.actionBox p{font-size:14px; color:#444; text-shadow:1px 1px #fff; font-family: 'Open Sans', 'sans-serif'; margin-top:5px;}
+.actionBox .applyjob{background:#1ba6df; color: #fff; font-size:16px; font-weight:bold; display:inline-block; margin:5px 0 0 10px; line-height:35px;}
+.actionBox .applyjob:hover{background: #333; border-bottom: 3px solid #111; text-decoration:none;}
+.actionBox .applyjob span{display:block; padding: 0 25px; border-radius: 3px;}
+.footeraction{background:#eee; padding:15px;}
+.reqlist{margin:10px 0 0 20px; padding:0; list-style:none;}
+.reqlist li{border-bottom:1px solid #eee; padding: 3px 0; font-family: 'Open Sans', 'sans-serif'; font-size:13px;}
+.reqlist li .col-sm-6{padding-left:0; padding-right:0;}
+.jobdescription{margin: 0 15px; padding-bottom:10px;}
+.jobdescription .subtitlebar{padding: 7px 0; font-size:18px; font-family: 'Open Sans', 'sans-serif'; font-weight:bold; margin-top:20px;}
+.jobdescription .skillBox{padding:15px; border:1px solid #ddd; font-size:13px; line-height:18px;}
+.jobdescription p{font-size:13px; line-height:20px; margin:0;}
+
+/*Footer*/
+/*@media (max-width:768px) {
+
+	.employersList li{width:22.4%;}
+
+	.topheader .col-md-2{margin-bottom:10px;}
+
+	.secondary{display:none;}
+
+	.searchjoblist.col-md-10{padding-left:0;}
+
+	.searchlist .col-md-2{padding-right:15px;}
+
+	.formwraper .input-group{width:100%;}
+
+	.formwraper .form-control{float:none; width:100%;}
+
+	.formwraper .input-group-addon{width:auto; display:block; padding:6px 0;}
+
+	.errowbox{right:10px;}
+
+}
+*/
+
+
+.subheading{padding: 3px 0; font-size:18px; font-family: 'Open Sans', 'sans-serif'; font-weight:bold; margin:0;}
+
+.normal-details{
+
+	font-size: 13px;
+
+    line-height: 20px;
+
+    margin: 0;	
+
+}
